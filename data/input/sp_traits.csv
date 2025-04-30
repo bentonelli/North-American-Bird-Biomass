@@ -1,0 +1,530 @@
+species,sci_name,mass,trophic_niche1,trophic_niche2
+Abert's Towhee,Melozone aberti,45.9,Invertivore,Generalist
+Acadian Flycatcher,Empidonax virescens,12.6,Invertivore,Insessorial
+Acorn Woodpecker,Melanerpes formicivorus,79.6,Granivore,Insessorial
+Alder Flycatcher,Empidonax alnorum,12.7,Invertivore,Insessorial
+Allen's Hummingbird,Selasphorus sasin,3.4,Nectarivore,Aerial
+American Avocet,Recurvirostra americana,304.5,Aquatic predator,Terrestrial
+American Bittern,Botaurus lentiginosus,706,Aquatic predator,Terrestrial
+American Black Duck,Anas rubripes,1241,Herbivore aquatic,Aquatic
+American Coot,Fulica americana,636.7,Herbivore aquatic,Aquatic
+American Crow,Corvus brachyrhynchos,448.8,Omnivore,Terrestrial
+American Dipper,Cinclus mexicanus,56.7,Aquatic predator,Generalist
+American Golden-Plover,Pluvialis dominica,151.5,Invertivore,Terrestrial
+American Goldfinch,Spinus tristis,12.8,Granivore,Insessorial
+American Kestrel,Falco sparverius,114.6,Omnivore,Insessorial
+American Oystercatcher,Haematopus palliatus,601.5,Aquatic predator,Terrestrial
+American Pipit,Anthus rubescens,20.7,Invertivore,Terrestrial
+American Redstart,Setophaga ruticilla,8.2,Invertivore,Insessorial
+American Robin,Turdus migratorius,78.5,Invertivore,Generalist
+American Three-toed Woodpecker,Picoides dorsalis,65.5,Invertivore,Insessorial
+American Tree Sparrow,Spizelloides arborea,17.8,Omnivore,Terrestrial
+American White Pelican,Pelecanus erythrorhynchos,5608.5,Aquatic predator,Aquatic
+American Wigeon,Mareca americana,754.6,Omnivore,Terrestrial
+American Woodcock,Scolopax minor,196.3,Invertivore,Terrestrial
+Ancient Murrelet,Synthliboramphus antiquus,217.7,Aquatic predator,Aquatic
+Anhinga,Anhinga anhinga,1235,Aquatic predator,Aquatic
+Anna's Hummingbird,Calypte anna,4.2,Nectarivore,Aerial
+Arctic Tern,Sterna paradisaea,110,Aquatic predator,Aerial
+Arctic Warbler,Phylloscopus borealis,10.9,Invertivore,Insessorial
+Ash-throated Flycatcher,Myiarchus cinerascens,28.2,Invertivore,Insessorial
+Atlantic Puffin,Fratercula arctica,593,Aquatic predator,Aquatic
+Bachman's Sparrow,Peucaea aestivalis,19.6,Granivore,Terrestrial
+Baird's Sandpiper,Calidris bairdii,41,Aquatic predator,Terrestrial
+Baird's Sparrow,Centronyx bairdii,18.1,Granivore,Generalist
+Bald Eagle,Haliaeetus leucocephalus,4700.6,Omnivore,Generalist
+Baltimore Oriole,Icterus galbula,32.8,Invertivore,Insessorial
+Band-tailed Pigeon,Patagioenas fasciata,366.3,Granivore,Terrestrial
+Bank Swallow,Riparia riparia,12.7,Invertivore,Aerial
+Barn Owl,Tyto alba,403.3,Vertivore,Insessorial
+Barn Swallow,Hirundo rustica,17.9,Invertivore,Aerial
+Barred Owl,Strix varia,711.5,Vertivore,Insessorial
+Barrow's Goldeneye,Bucephala islandica,921.2,Aquatic predator,Aquatic
+Bay-breasted Warbler,Setophaga castanea,11.8,Invertivore,Insessorial
+Bell's Sparrow,Artemisiospiza belli,17,Granivore,Terrestrial
+Bell's Vireo,Vireo bellii,8.5,Invertivore,Insessorial
+Belted Kingfisher,Megaceryle alcyon,148,Aquatic predator,Insessorial
+Bendire's Thrasher,Toxostoma bendirei,62.2,Omnivore,Generalist
+Bewick's Wren,Thryomanes bewickii,9.9,Invertivore,Generalist
+Black-and-white Warbler,Mniotilta varia,10.9,Invertivore,Insessorial
+Black-backed Woodpecker,Picoides arcticus,69.2,Invertivore,Insessorial
+Black-bellied Plover,Pluvialis squatarola,250,Aquatic predator,Terrestrial
+Black-billed Cuckoo,Coccyzus erythropthalmus,50.9,Invertivore,Insessorial
+Black-billed Magpie,Pica hudsonia,177.1,Omnivore,Terrestrial
+Black-capped Chickadee,Poecile atricapillus,10.8,Invertivore,Insessorial
+Black-chinned Hummingbird,Archilochus alexandri,3.4,Nectarivore,Aerial
+Black-chinned Sparrow,Spizella atrogularis,11.3,Omnivore,Generalist
+Black-crested Titmouse,Baeolophus atricristatus,17.5,Invertivore,Insessorial
+Black-crowned Night-Heron,Nycticorax nycticorax,810,Aquatic predator,Terrestrial
+Black-headed Grosbeak,Pheucticus melanocephalus,47.1,Invertivore,Insessorial
+Black-legged Kittiwake,Rissa tridactyla,416,Aquatic predator,Aerial
+Black-necked Stilt,Himantopus mexicanus,176.8,Aquatic predator,Terrestrial
+Black-tailed Gnatcatcher,Polioptila melanura,5.2,Invertivore,Insessorial
+Black-throated Blue Warbler,Setophaga caerulescens,10.1,Invertivore,Insessorial
+Black-throated Gray Warbler,Setophaga nigrescens,8.7,Invertivore,Insessorial
+Black-throated Green Warbler,Setophaga virens,8.7,Invertivore,Insessorial
+Black-throated Sparrow,Amphispiza bilineata,13.5,Omnivore,Generalist
+Black-whiskered Vireo,Vireo altiloquus,19,Invertivore,Insessorial
+Black Guillemot,Cepphus grylle,378,Aquatic predator,Aquatic
+Black Oystercatcher,Haematopus bachmani,582,Aquatic predator,Terrestrial
+Black Phoebe,Sayornis nigricans,18.6,Invertivore,Insessorial
+Black Scoter,Melanitta americana,1117,Aquatic predator,Aquatic
+Black Skimmer,Rynchops niger,297.7,Aquatic predator,Aerial
+Black Swift,Cypseloides niger,39.7,Invertivore,Aerial
+Black Tern,Chlidonias niger,65.3,Aquatic predator,Aerial
+Black Turnstone,Arenaria melanocephala,126.2,Aquatic predator,Terrestrial
+Black Vulture,Coragyps atratus,1881.7,Scavenger,Terrestrial
+Blackburnian Warbler,Setophaga fusca,9.7,Invertivore,Insessorial
+Blackpoll Warbler,Setophaga striata,11.8,Invertivore,Insessorial
+Blue-gray Gnatcatcher,Polioptila caerulea,5.8,Invertivore,Insessorial
+Blue-headed Vireo,Vireo solitarius,15.3,Invertivore,Insessorial
+Blue-winged Teal,Spatula discors,359.4,Herbivore aquatic,Aquatic
+Blue-winged Warbler,Vermivora cyanoptera,8.9,Invertivore,Insessorial
+Blue Grosbeak,Passerina caerulea,27.4,Invertivore,Generalist
+Blue Jay,Cyanocitta cristata,88,Omnivore,Terrestrial
+Boat-tailed Grackle,Quiscalus major,151.2,Omnivore,Terrestrial
+Bobolink,Dolichonyx oryzivorus,31.5,Granivore,Generalist
+Bohemian Waxwing,Bombycilla garrulus,54.4,Omnivore,Insessorial
+Bonaparte's Gull,Chroicocephalus philadelphia,210.7,Omnivore,Aerial
+Boreal Chickadee,Poecile hudsonicus,9.8,Invertivore,Insessorial
+Brandt's Cormorant,Urile pelagicus,1844,Aquatic predator,Aquatic
+Brant,Branta bernicla,1277.9,Herbivore terrestrial,Terrestrial
+Brewer's Blackbird,Euphagus cyanocephalus,62.5,Omnivore,Terrestrial
+Brewer's Sparrow,Spizella breweri,10.9,Omnivore,Generalist
+Bridled Titmouse,Baeolophus wollweberi,10.4,Invertivore,Insessorial
+Broad-tailed Hummingbird,Selasphorus platycercus,3.5,Nectarivore,Aerial
+Broad-winged Hawk,Buteo platypterus,453.7,Vertivore,Insessorial
+Bronzed Cowbird,Molothrus aeneus,62.6,Granivore,Terrestrial
+Brown-crested Flycatcher,Myiarchus tyrannulus,35.5,Invertivore,Insessorial
+Brown-headed Cowbird,Molothrus ater,40.3,Invertivore,Terrestrial
+Brown-headed Nuthatch,Sitta pusilla,10.2,Invertivore,Insessorial
+Brown Creeper,Certhia americana,8.1,Invertivore,Insessorial
+Brown Pelican,Pelecanus occidentalis,3427.8,Aquatic predator,Aerial
+Brown Thrasher,Toxostoma rufum,68.8,Omnivore,Generalist
+Buff-breasted Sandpiper,Calidris subruficollis,62.1,Omnivore,Terrestrial
+Bufflehead,Bucephala albeola,397.5,Aquatic predator,Aquatic
+Bullock's Oriole,Icterus bullockii,37.9,Invertivore,Insessorial
+Burrowing Owl,Athene cunicularia,150.6,Vertivore,Generalist
+Bushtit,Psaltriparus minimus,5.3,Invertivore,Insessorial
+Cackling Goose,Branta hutchinsii,2811.7,Herbivore terrestrial,Terrestrial
+Cactus Wren,Campylorhynchus brunneicapillus,38.9,Invertivore,Insessorial
+California Gull,Larus californicus,683.4,Omnivore,Terrestrial
+California Quail,Callipepla californica,165.7,Omnivore,Terrestrial
+California Scrub-Jay,Aphelocoma californica,85.7,Omnivore,Terrestrial
+California Thrasher,Toxostoma redivivum,84.4,Invertivore,Generalist
+California Towhee,Melozone crissalis,52.8,Granivore,Generalist
+Calliope Hummingbird,Selasphorus calliope,2.6,Nectarivore,Aerial
+Canada Goose,Branta canadensis,2811.7,Herbivore terrestrial,Terrestrial
+Canada Jay,Perisoreus canadensis,71.6,Omnivore,Insessorial
+Canada Warbler,Cardellina canadensis,10,Invertivore,Insessorial
+Canvasback,Aythya valisineria,1202,Herbivore aquatic,Aquatic
+Canyon Towhee,Melozone fusca,44.4,Granivore,Generalist
+Canyon Wren,Catherpes mexicanus,12,Invertivore,Insessorial
+Cape May Warbler,Setophaga tigrina,10,Invertivore,Insessorial
+Carolina Chickadee,Poecile carolinensis,10,Invertivore,Insessorial
+Carolina Wren,Thryothorus ludovicianus,19,Invertivore,Insessorial
+Caspian Tern,Hydroprogne caspia,655,Aquatic predator,Aerial
+Cassin's Auklet,Ptychoramphus aleuticus,184,Aquatic predator,Aquatic
+Cassin's Finch,Haemorhous cassinii,26.5,Granivore,Insessorial
+Cassin's Kingbird,Tyrannus vociferans,45.6,Invertivore,Insessorial
+Cassin's Sparrow,Peucaea cassinii,18.9,Invertivore,Generalist
+Cassin's Vireo,Vireo cassinii,14.7,Invertivore,Insessorial
+Cattle Egret,Bubulcus ibis,366,Omnivore,Terrestrial
+Cave Swallow,Petrochelidon fulva,19,Invertivore,Aerial
+Cedar Waxwing,Bombycilla cedrorum,31.6,Frugivore,Insessorial
+Cerulean Warbler,Setophaga cerulea,9,Invertivore,Insessorial
+Chestnut-backed Chickadee,Poecile rufescens,9.4,Invertivore,Insessorial
+Chestnut-collared Longspur,Calcarius ornatus,20.3,Granivore,Terrestrial
+Chestnut-sided Warbler,Setophaga pensylvanica,9.3,Invertivore,Insessorial
+Chihuahuan Raven,Corvus cryptoleucus,533.5,Omnivore,Terrestrial
+Chimney Swift,Chaetura pelagica,23.6,Invertivore,Aerial
+Chipping Sparrow,Spizella passerina,12.2,Omnivore,Generalist
+Chuck-will's-widow,Antrostomus carolinensis,109,Invertivore,Aerial
+Chukar,Alectoris chukar,502.1,Granivore,Terrestrial
+Cinnamon Teal,Spatula cyanoptera,377.5,Herbivore aquatic,Aquatic
+Clapper Rail,Rallus crepitans,306,Aquatic predator,Terrestrial
+Clark's Grebe,Aechmophorus clarkii,1090.9,Aquatic predator,Aquatic
+Clark's Nutcracker,Nucifraga columbiana,129.8,Omnivore,Insessorial
+Clay-colored Sparrow,Spizella pallida,11.2,Granivore,Generalist
+Cliff Swallow,Petrochelidon pyrrhonota,21.6,Invertivore,Aerial
+Common Eider,Somateria mollissima,2060.9,Aquatic predator,Aquatic
+Common Gallinule,Gallinula galeata,339.6,Omnivore,Terrestrial
+Common Goldeneye,Bucephala clangula,918.6,Aquatic predator,Aquatic
+Common Grackle,Quiscalus quiscula,105.2,Omnivore,Terrestrial
+Common Ground-Dove,Columbina passerina,35.4,Omnivore,Terrestrial
+Common Loon,Gavia immer,4956.8,Aquatic predator,Aquatic
+Common Merganser,Mergus merganser,1451,Aquatic predator,Aquatic
+Common Murre,Uria aalge,991.9,Aquatic predator,Aquatic
+Common Nighthawk,Chordeiles minor,79.3,Invertivore,Aerial
+Common Poorwill,Phalaenoptilus nuttallii,48.3,Invertivore,Generalist
+Common Raven,Corvus corax,928,Omnivore,Terrestrial
+Common Redpoll,Acanthis flammea,13,Granivore,Generalist
+Common Tern,Sterna hirundo,129.2,Aquatic predator,Aerial
+Common Yellowthroat,Geothlypis trichas,9.5,Invertivore,Insessorial
+Connecticut Warbler,Oporornis agilis,13.3,Invertivore,Terrestrial
+Cooper's Hawk,Accipiter cooperii,429.7,Vertivore,Aerial
+Cordilleran Flycatcher,Empidonax occidentalis,11.6,Invertivore,Insessorial
+Costa's Hummingbird,Calypte costae,3.1,Nectarivore,Aerial
+Couch's Kingbird,Tyrannus couchii,39,Invertivore,Insessorial
+Crested Caracara,Caracara plancus,1078.6,Omnivore,Terrestrial
+Crissal Thrasher,Toxostoma crissale,62.7,Invertivore,Terrestrial
+Curve-billed Thrasher,Toxostoma curvirostre,80.5,Invertivore,Terrestrial
+Dark-eyed Junco,Junco hyemalis,19.5,Granivore,Generalist
+Dickcissel,Spiza americana,26.2,Omnivore,Terrestrial
+Double-crested Cormorant,Nannopterum auritum,1806.5,Aquatic predator,Aquatic
+Dovekie,Alle alle,180.7,Aquatic predator,Aquatic
+Downy Woodpecker,Dryobates pubescens,25.6,Invertivore,Insessorial
+Dunlin,Calidris alpina,51.9,Aquatic predator,Terrestrial
+Dusky Flycatcher,Empidonax oberholseri,10.4,Invertivore,Insessorial
+Dusky Grouse,Dendragapus obscurus,1047.3,Herbivore terrestrial,Generalist
+Eared Grebe,Podiceps nigricollis,412.4,Aquatic predator,Aquatic
+Eastern Bluebird,Sialia sialis,27.5,Invertivore,Insessorial
+Eastern Kingbird,Tyrannus tyrannus,39.9,Invertivore,Insessorial
+Eastern Meadowlark,Sturnella magna,91.8,Invertivore,Terrestrial
+Eastern Phoebe,Sayornis phoebe,19.7,Invertivore,Insessorial
+Eastern Screech-Owl,Megascops asio,180,Invertivore,Insessorial
+Eastern Towhee,Pipilo erythrophthalmus,40,Omnivore,Generalist
+Eastern Whip-poor-will,Antrostomus vociferus,53.3,Invertivore,Generalist
+Eastern Wood-Pewee,Contopus virens,13.9,Invertivore,Insessorial
+Emperor Goose,Anser canagicus,2136.5,Omnivore,Terrestrial
+Eurasian Collared-Dove,Streptopelia decaocto,149,Omnivore,Terrestrial
+Eurasian Tree Sparrow,Passer montanus,21.4,Granivore,Terrestrial
+European Starling,Sturnus vulgaris,77.1,Omnivore,Insessorial
+Evening Grosbeak,Coccothraustes vespertinus,57.3,Omnivore,Insessorial
+Ferruginous Hawk,Buteo regalis,1437.2,Vertivore,Generalist
+Field Sparrow,Spizella pusilla,12.5,Granivore,Generalist
+Fish Crow,Corvus ossifragus,284.6,Omnivore,Terrestrial
+Forster's Tern,Sterna forsteri,149,Aquatic predator,Aerial
+Fox Sparrow,Passerella iliaca,33.3,Omnivore,Generalist
+Franklin's Gull,Leucophaeus pipixcan,280,Omnivore,Generalist
+Fulvous Whistling-Duck,Dendrocygna bicolor,756.4,Omnivore,Terrestrial
+Gadwall,Mareca strepera,915.6,Herbivore aquatic,Aquatic
+Gambel's Quail,Callipepla gambelii,166,Omnivore,Terrestrial
+Gila Woodpecker,Melanerpes uropygialis,64.7,Omnivore,Insessorial
+Gilded Flicker,Colaptes chrysoides,111,Invertivore,Terrestrial
+Glaucous-winged Gull,Larus glaucescens,1056.5,Aquatic predator,Generalist
+Glaucous Gull,Larus hyperboreus,1529,Omnivore,Generalist
+Glossy Ibis,Plegadis falcinellus,626.6,Aquatic predator,Terrestrial
+Golden-crowned Kinglet,Regulus satrapa,6.2,Invertivore,Insessorial
+Golden-crowned Sparrow,Zonotrichia atricapilla,32,Omnivore,Generalist
+Golden-fronted Woodpecker,Melanerpes aurifrons,80.8,Omnivore,Insessorial
+Golden-winged Warbler,Vermivora chrysoptera,8.7,Invertivore,Insessorial
+Golden Eagle,Aquila chrysaetos,4248,Vertivore,Aerial
+Grace's Warbler,Setophaga graciae,8.1,Invertivore,Insessorial
+Grasshopper Sparrow,Ammodramus savannarum,17.6,Invertivore,Generalist
+Gray-cheeked Thrush,Catharus minimus,31.6,Invertivore,Terrestrial
+Gray Catbird,Dumetella carolinensis,35.3,Invertivore,Insessorial
+Gray Flycatcher,Empidonax wrightii,12.3,Invertivore,Insessorial
+Gray Kingbird,Tyrannus dominicensis,46.5,Omnivore,Insessorial
+Gray Partridge,Perdix perdix,405.3,Omnivore,Terrestrial
+Gray Vireo,Vireo vicinior,12.8,Invertivore,Insessorial
+Great-tailed Grackle,Quiscalus mexicanus,160.5,Omnivore,Terrestrial
+Great Black-backed Gull,Larus marinus,1649.7,Omnivore,Terrestrial
+Great Blue Heron,Ardea herodias,2523.4,Aquatic predator,Terrestrial
+Great Crested Flycatcher,Myiarchus crinitus,32.1,Invertivore,Insessorial
+Great Egret,Ardea alba,871.3,Aquatic predator,Terrestrial
+Great Gray Owl,Strix nebulosa,1061.9,Vertivore,Insessorial
+Great Horned Owl,Bubo virginianus,1354.5,Vertivore,Insessorial
+Greater Prairie-Chicken,Tympanuchus cupido,870.1,Granivore,Terrestrial
+Greater Roadrunner,Geococcyx californianus,376,Invertivore,Terrestrial
+Greater Sage-Grouse,Centrocercus urophasianus,1902.5,Herbivore terrestrial,Terrestrial
+Greater Scaup,Aythya marila,1005.4,Aquatic predator,Aquatic
+Greater White-fronted Goose,Anser albifrons,2506.4,Herbivore terrestrial,Terrestrial
+Greater Yellowlegs,Tringa melanoleuca,161.7,Aquatic predator,Terrestrial
+Green-tailed Towhee,Pipilo chlorurus,29.4,Omnivore,Generalist
+Green-winged Teal,Anas crecca,341.9,Herbivore aquatic,Aquatic
+Green Heron,Butorides virescens,201.5,Aquatic predator,Terrestrial
+Green Jay,Cyanocorax yncas,78.5,Omnivore,Insessorial
+Groove-billed Ani,Crotophaga sulcirostris,82,Invertivore,Terrestrial
+Gull-billed Tern,Gelochelidon nilotica,218.3,Omnivore,Aerial
+Gyrfalcon,Falco rusticolus,1431.7,Vertivore,Aerial
+Hairy Woodpecker,Dryobates villosus,62.7,Invertivore,Insessorial
+Hammond's Flycatcher,Empidonax hammondii,10.4,Invertivore,Insessorial
+Harlequin Duck,Histrionicus histrionicus,561.6,Aquatic predator,Aquatic
+Harris's Hawk,Parabuteo unicinctus,850.3,Vertivore,Insessorial
+Harris's Sparrow,Zonotrichia querula,35.5,Omnivore,Terrestrial
+Henslow's Sparrow,Centronyx henslowii,12.8,Omnivore,Generalist
+Hepatic Tanager,Piranga flava,37.7,Invertivore,Insessorial
+Hermit Thrush,Catharus guttatus,30.1,Invertivore,Generalist
+Hermit Warbler,Setophaga occidentalis,10.4,Invertivore,Insessorial
+Herring Gull,Larus argentatus,1091,Aquatic predator,Generalist
+Hoary Redpoll,Acanthis hornemanni,13.9,Granivore,Generalist
+Hooded Merganser,Lophodytes cucullatus,613.8,Aquatic predator,Aquatic
+Hooded Oriole,Icterus cucullatus,24.3,Omnivore,Insessorial
+Hooded Warbler,Setophaga citrina,10.5,Invertivore,Insessorial
+Horned Grebe,Podiceps auritus,453,Aquatic predator,Aquatic
+Horned Lark,Eremophila alpestris,33.3,Omnivore,Terrestrial
+House Finch,Haemorhous mexicanus,21.4,Granivore,Insessorial
+House Sparrow,Passer domesticus,26.5,Granivore,Terrestrial
+House Wren,Troglodytes aedon,10.9,Invertivore,Insessorial
+Hudsonian Godwit,Limosa haemastica,253.3,Aquatic predator,Terrestrial
+Hutton's Vireo,Vireo huttoni,11.3,Invertivore,Insessorial
+Inca Dove,Columbina inca,47.5,Granivore,Terrestrial
+Indigo Bunting,Passerina cyanea,14.7,Granivore,Terrestrial
+Juniper Titmouse,Baeolophus ridgwayi,15.9,Invertivore,Insessorial
+Kentucky Warbler,Geothlypis formosa,14,Invertivore,Generalist
+Killdeer,Charadrius vociferus,96.4,Omnivore,Terrestrial
+King Eider,Somateria spectabilis,1616.7,Aquatic predator,Aquatic
+King Rail,Rallus elegans,313.3,Aquatic predator,Terrestrial
+Ladder-backed Woodpecker,Dryobates scalaris,31.6,Invertivore,Insessorial
+Lapland Longspur,Calcarius lapponicus,27.8,Granivore,Terrestrial
+Lark Bunting,Calamospiza melanocorys,37.6,Omnivore,Generalist
+Lark Sparrow,Chondestes grammacus,29,Granivore,Generalist
+Laughing Gull,Leucophaeus atricilla,307.4,Aquatic predator,Aerial
+Lawrence's Goldfinch,Spinus lawrencei,10.9,Granivore,Terrestrial
+Lazuli Bunting,Passerina amoena,15.5,Omnivore,Insessorial
+Least Bittern,Ixobrychus exilis,86.3,Aquatic predator,Terrestrial
+Least Flycatcher,Empidonax minimus,10,Invertivore,Insessorial
+Least Sandpiper,Calidris minutilla,22.9,Aquatic predator,Terrestrial
+Least Tern,Sternula antillarum,45.9,Aquatic predator,Aerial
+LeConte's Sparrow,Ammospiza leconteii,13,Granivore,Generalist
+LeConte's Thrasher,Toxostoma lecontei,61.9,Invertivore,Terrestrial
+Lesser Goldfinch,Spinus psaltria,8.8,Granivore,Insessorial
+Lesser Nighthawk,Chordeiles acutipennis,48.4,Invertivore,Aerial
+Lesser Scaup,Aythya affinis,819.5,Aquatic predator,Aquatic
+Lesser Yellowlegs,Tringa flavipes,77.5,Aquatic predator,Terrestrial
+Lewis's Woodpecker,Melanerpes lewis,105.8,Invertivore,Insessorial
+Limpkin,Aramus guarauna,1080,Aquatic predator,Terrestrial
+Lincoln's Sparrow,Melospiza lincolnii,16.6,Omnivore,Generalist
+Little Blue Heron,Egretta caerulea,338.6,Aquatic predator,Terrestrial
+Loggerhead Shrike,Lanius ludovicianus,51.6,Invertivore,Insessorial
+Long-billed Curlew,Numenius americanus,583.9,Omnivore,Terrestrial
+Long-billed Dowitcher,Limnodromus scolopaceus,104.4,Aquatic predator,Terrestrial
+Long-billed Thrasher,Toxostoma longirostre,67.6,Invertivore,Terrestrial
+Long-eared Owl,Asio otus,296.6,Vertivore,Aerial
+Long-tailed Duck,Clangula hyemalis,871,Aquatic predator,Aquatic
+Louisiana Waterthrush,Parkesia motacilla,19.9,Invertivore,Terrestrial
+Lucy's Warbler,Leiothlypis luciae,6.6,Invertivore,Insessorial
+MacGillivray's Warbler,Geothlypis tolmiei,10.4,Invertivore,Generalist
+Magnolia Warbler,Setophaga magnolia,8.1,Invertivore,Insessorial
+Mallard,Anas platyrhynchos,843.4,Herbivore aquatic,Aquatic
+Marbled Godwit,Limosa fedoa,357,Aquatic predator,Terrestrial
+Marbled Murrelet,Brachyramphus marmoratus,220,Aquatic predator,Aquatic
+Marsh Wren,Cistothorus palustris,10.8,Invertivore,Insessorial
+McCown's Longspur,Rhynchophanes mccownii,25.7,Granivore,Terrestrial
+Merlin,Falco columbarius,188.5,Vertivore,Aerial
+Mew Gull,Larus canus,412.5,Omnivore,Terrestrial
+Mexican Jay,Aphelocoma wollweberi,113.3,Omnivore,Generalist
+Mississippi Kite,Ictinia mississippiensis,276,Invertivore,Generalist
+Monk Parakeet,Myiopsitta monachus,120,Omnivore,Insessorial
+Mottled Duck,Anas fulvigula,843.4,Herbivore aquatic,Aquatic
+Mountain Bluebird,Sialia currucoides,29.6,Invertivore,Insessorial
+Mountain Chickadee,Poecile gambeli,11.2,Invertivore,Insessorial
+Mountain Plover,Charadrius montanus,95.7,Invertivore,Terrestrial
+Mountain Quail,Oreortyx pictus,233,Omnivore,Terrestrial
+Mourning Dove,Zenaida macroura,118.9,Granivore,Terrestrial
+Mourning Warbler,Geothlypis philadelphia,11.7,Invertivore,Insessorial
+Mute Swan,Cygnus olor,10682,Herbivore aquatic,Aquatic
+Nashville Warbler,Leiothlypis ruficapilla,8.1,Invertivore,Insessorial
+Nelson's Sparrow,Ammospiza nelsoni,15.1,Invertivore,Generalist
+Northern Bobwhite,Colinus virginianus,171.9,Omnivore,Terrestrial
+Northern Cardinal,Cardinalis cardinalis,42.6,Omnivore,Insessorial
+Northern Flicker,Colaptes auratus,131.5,Invertivore,Generalist
+Northern Fulmar,Fulmarus glacialis,611.9,Aquatic predator,Aquatic
+Northern Gannet,Morus bassanus,2998.7,Aquatic predator,Aerial
+Northern Goshawk,Accipiter gentilis,866,Vertivore,Generalist
+Northern Harrier,Circus hudsonius,393,Vertivore,Aerial
+Northern Mockingbird,Mimus polyglottos,48.5,Omnivore,Generalist
+Northern Parula,Setophaga americana,7.8,Invertivore,Insessorial
+Northern Pintail,Anas acuta,944.6,Herbivore aquatic,Aquatic
+Northern Pygmy-Owl,Glaucidium gnoma,61.3,Invertivore,Insessorial
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,15.7,Invertivore,Aerial
+Northern Saw-whet Owl,Aegolius acadicus,100.7,Vertivore,Insessorial
+Northern Shoveler,Spatula clypeata,612.6,Aquatic predator,Aquatic
+Northern Shrike,Lanius borealis,63.4,Vertivore,Insessorial
+Northern Waterthrush,Parkesia noveboracensis,16.3,Invertivore,Terrestrial
+Northwestern Crow,Corvus brachyrhynchos,448.8,Omnivore,Terrestrial
+Nuttall's Woodpecker,Dryobates nuttallii,37.4,Invertivore,Insessorial
+Oak Titmouse,Baeolophus inornatus,15.9,Invertivore,Insessorial
+Olive-sided Flycatcher,Contopus cooperi,32.1,Invertivore,Insessorial
+Olive Sparrow,Arremonops rufivirgatus,22.4,Omnivore,Generalist
+Orange-crowned Warbler,Leiothlypis celata,9.2,Invertivore,Insessorial
+Orchard Oriole,Icterus spurius,19.4,Invertivore,Insessorial
+Osprey,Pandion haliaetus,1483.2,Aquatic predator,Aerial
+Ovenbird,Seiurus aurocapilla,18.8,Invertivore,Terrestrial
+Pacific-slope Flycatcher,Empidonax difficilis,10.7,Invertivore,Insessorial
+Pacific Golden-Plover,Pluvialis fulva,134.9,Omnivore,Terrestrial
+Pacific Wren,Troglodytes pacificus,9.4,Invertivore,Insessorial
+Painted Bunting,Passerina ciris,15.5,Granivore,Terrestrial
+Palm Warbler,Setophaga palmarum,10.3,Invertivore,Insessorial
+Pectoral Sandpiper,Calidris melanotos,79.7,Aquatic predator,Terrestrial
+Pelagic Cormorant,Urile pelagicus,1844,Aquatic predator,Aquatic
+Peregrine Falcon,Falco peregrinus,760,Vertivore,Aerial
+Phainopepla,Phainopepla nitens,22.1,Frugivore,Insessorial
+Philadelphia Vireo,Vireo philadelphicus,11.5,Invertivore,Insessorial
+Pied-billed Grebe,Podilymbus podiceps,411.9,Aquatic predator,Aquatic
+Pigeon Guillemot,Cepphus columba,530,Aquatic predator,Aquatic
+Pileated Woodpecker,Dryocopus pileatus,286.6,Invertivore,Insessorial
+Pine Grosbeak,Pinicola enucleator,56.4,Omnivore,Insessorial
+Pine Siskin,Spinus pinus,12.7,Granivore,Insessorial
+Pine Warbler,Setophaga pinus,11.8,Invertivore,Insessorial
+Pinyon Jay,Gymnorhinus cyanocephalus,104.8,Omnivore,Generalist
+Plumbeous Vireo,Vireo plumbeus,16.4,Invertivore,Insessorial
+Prairie Falcon,Falco mexicanus,713.1,Vertivore,Aerial
+Prairie Warbler,Setophaga discolor,7.6,Invertivore,Insessorial
+Prothonotary Warbler,Protonotaria citrea,14.3,Invertivore,Insessorial
+Purple Finch,Haemorhous purpureus,23.3,Omnivore,Insessorial
+Purple Gallinule,Porphyrio martinica,235.1,Herbivore aquatic,Terrestrial
+Purple Martin,Progne subis,53.8,Invertivore,Aerial
+Purple Sandpiper,Calidris maritima,65.1,Aquatic predator,Terrestrial
+Pygmy Nuthatch,Sitta pygmaea,10.6,Invertivore,Insessorial
+Pyrrhuloxia,Cardinalis sinuatus,35.2,Omnivore,Generalist
+Razorbill,Alca torda,726,Aquatic predator,Aquatic
+Red-bellied Woodpecker,Melanerpes carolinus,69.5,Omnivore,Insessorial
+Red-breasted Merganser,Mergus serrator,1015.2,Aquatic predator,Aquatic
+Red-breasted Nuthatch,Sitta canadensis,9.8,Omnivore,Insessorial
+Red-breasted Sapsucker,Sphyrapicus ruber,54.8,Invertivore,Insessorial
+Red-cockaded Woodpecker,Dryobates borealis,48,Invertivore,Insessorial
+Red-eyed Vireo,Vireo olivaceus,16.1,Invertivore,Insessorial
+Red-faced Cormorant,Urile urile,2117.7,Aquatic predator,Aquatic
+Red-faced Warbler,Cardellina rubrifrons,8.1,Invertivore,Insessorial
+Red-headed Woodpecker,Melanerpes erythrocephalus,71.6,Invertivore,Insessorial
+Red-naped Sapsucker,Sphyrapicus nuchalis,48.5,Omnivore,Insessorial
+Red-necked Grebe,Podiceps grisegena,1023,Aquatic predator,Aquatic
+Red-shouldered Hawk,Buteo lineatus,603.7,Vertivore,Aerial
+Red-tailed Hawk,Buteo jamaicensis,1101.2,Vertivore,Insessorial
+Red-throated Loon,Gavia stellata,1486,Aquatic predator,Aquatic
+Red-winged Blackbird,Agelaius phoeniceus,50.8,Granivore,Generalist
+Red Crossbill,Loxia curvirostra,38.3,Granivore,Insessorial
+Red Knot,Calidris canutus,141.9,Aquatic predator,Terrestrial
+Reddish Egret,Egretta rufescens,614,Aquatic predator,Terrestrial
+Redhead,Aythya americana,1075.7,Herbivore aquatic,Aquatic
+Rhinoceros Auklet,Cerorhinca monocerata,482.2,Aquatic predator,Aquatic
+Ring-billed Gull,Larus delawarensis,516.3,Omnivore,Terrestrial
+Ring-necked Duck,Aythya collaris,704.6,Herbivore aquatic,Aquatic
+Ring-necked Pheasant,Phasianus colchicus,1120.3,Omnivore,Terrestrial
+Rock Pigeon,Columba livia,354.2,Granivore,Terrestrial
+Rock Sandpiper,Calidris ptilocnemis,81.3,Aquatic predator,Terrestrial
+Rock Wren,Salpinctes obsoletus,16.4,Invertivore,Terrestrial
+Rose-breasted Grosbeak,Pheucticus ludovicianus,42,Omnivore,Insessorial
+Roseate Spoonbill,Platalea ajaja,1490,Aquatic predator,Terrestrial
+Ross's Goose,Anser rossii,1636,Herbivore terrestrial,Terrestrial
+Rough-legged Hawk,Buteo lagopus,949.8,Vertivore,Insessorial
+Royal Tern,Thalasseus maximus,415.3,Aquatic predator,Aerial
+Ruby-crowned Kinglet,Corthylio calendula,6.2,Invertivore,Insessorial
+Ruby-throated Hummingbird,Archilochus colubris,3.1,Nectarivore,Generalist
+Ruddy Duck,Oxyura jamaicensis,608.2,Aquatic predator,Aquatic
+Ruddy Turnstone,Arenaria interpres,136,Aquatic predator,Terrestrial
+Ruffed Grouse,Bonasa umbellus,530.9,Herbivore terrestrial,Generalist
+Rufous-crowned Sparrow,Aimophila ruficeps,18.7,Granivore,Generalist
+Rufous Hummingbird,Selasphorus rufus,3.5,Nectarivore,Aerial
+Rusty Blackbird,Euphagus carolinus,59.6,Omnivore,Terrestrial
+Sage Thrasher,Oreoscoptes montanus,44.2,Invertivore,Terrestrial
+Sagebrush Sparrow,Artemisiospiza nevadensis,18.5,Granivore,Terrestrial
+Sanderling,Calidris alba,51.7,Aquatic predator,Terrestrial
+Sandhill Crane,Antigone canadensis,4296.2,Omnivore,Terrestrial
+Sandwich Tern,Thalasseus sandvicensis,199.8,Aquatic predator,Aerial
+Savannah Sparrow,Passerculus sandwichensis,20,Omnivore,Generalist
+Say's Phoebe,Sayornis saya,20.9,Invertivore,Insessorial
+Scaled Quail,Callipepla squamata,183.9,Omnivore,Terrestrial
+Scarlet Tanager,Piranga olivacea,28.2,Invertivore,Insessorial
+Scissor-tailed Flycatcher,Tyrannus forficatus,39.3,Invertivore,Insessorial
+Scott's Oriole,Icterus parisorum,36.5,Invertivore,Insessorial
+Seaside Sparrow,Ammospiza maritima,22.2,Invertivore,Terrestrial
+Sedge Wren,Cistothorus platensis,9,Invertivore,Insessorial
+Semipalmated Plover,Charadrius semipalmatus,46.7,Aquatic predator,Terrestrial
+Semipalmated Sandpiper,Calidris pusilla,27.5,Aquatic predator,Terrestrial
+Sharp-shinned Hawk,Accipiter striatus,130.6,Vertivore,Aerial
+Sharp-tailed Grouse,Tympanuchus phasianellus,882.4,Herbivore terrestrial,Terrestrial
+Short-billed Dowitcher,Limnodromus griseus,110.5,Aquatic predator,Terrestrial
+Short-eared Owl,Asio flammeus,322.6,Vertivore,Aerial
+Smith's Longspur,Calcarius pictus,26.7,Granivore,Terrestrial
+Snow Bunting,Plectrophenax nivalis,42.2,Granivore,Terrestrial
+Snow Goose,Anser caerulescens,2636.2,Herbivore terrestrial,Terrestrial
+Snowy Egret,Egretta thula,371,Aquatic predator,Terrestrial
+Snowy Owl,Bubo scandiacus,2028.8,Vertivore,Insessorial
+Snowy Plover,Charadrius nivosus,42.3,Aquatic predator,Terrestrial
+Solitary Sandpiper,Tringa solitaria,48.4,Aquatic predator,Terrestrial
+Song Sparrow,Melospiza melodia,21.9,Omnivore,Generalist
+Sooty Grouse,Dendragapus fuliginosus,1047.3,Herbivore terrestrial,Generalist
+Sora,Porzana carolina,74.8,Omnivore,Terrestrial
+Spotted Sandpiper,Actitis macularius,40.4,Aquatic predator,Terrestrial
+Spotted Towhee,Pipilo maculatus,39.3,Omnivore,Generalist
+Sprague's Pipit,Anthus spragueii,25.5,Invertivore,Terrestrial
+Spruce Grouse,Canachites canadensis,473.7,Herbivore terrestrial,Terrestrial
+Steller's Eider,Polysticta stelleri,806.8,Aquatic predator,Aquatic
+Steller's Jay,Cyanocitta stelleri,128,Omnivore,Insessorial
+Stilt Sandpiper,Calidris himantopus,57.2,Aquatic predator,Terrestrial
+Summer Tanager,Piranga rubra,29.1,Invertivore,Insessorial
+Surf Scoter,Melanitta perspicillata,1096.3,Aquatic predator,Aquatic
+Surfbird,Calidris virgata,201,Aquatic predator,Terrestrial
+Swainson's Hawk,Buteo swainsoni,946.6,Vertivore,Insessorial
+Swainson's Thrush,Catharus ustulatus,30.3,Invertivore,Insessorial
+Swainson's Warbler,Limnothlypis swainsonii,18.9,Invertivore,Terrestrial
+Swallow-tailed Kite,Elanoides forficatus,416.2,Invertivore,Generalist
+Swamp Sparrow,Melospiza georgiana,16.1,Omnivore,Generalist
+Tennessee Warbler,Leiothlypis peregrina,8.9,Invertivore,Insessorial
+Thick-billed Murre,Uria lomvia,964,Aquatic predator,Aquatic
+Townsend's Solitaire,Myadestes townsendi,33.2,Omnivore,Insessorial
+Townsend's Warbler,Setophaga townsendi,8.8,Invertivore,Insessorial
+Tree Swallow,Tachycineta bicolor,21.2,Invertivore,Aerial
+Tricolored Blackbird,Agelaius tricolor,57.9,Invertivore,Terrestrial
+Tricolored Heron,Egretta tricolor,372.3,Aquatic predator,Terrestrial
+Trumpeter Swan,Cygnus buccinator,11071.1,Herbivore aquatic,Aquatic
+Tufted Titmouse,Baeolophus bicolor,21.6,Invertivore,Insessorial
+Tundra Swan,Cygnus columbianus,6378,Herbivore aquatic,Aquatic
+Turkey Vulture,Cathartes aura,1518.2,Scavenger,Terrestrial
+Upland Sandpiper,Bartramia longicauda,158.9,Invertivore,Terrestrial
+Varied Bunting,Passerina versicolor,12.9,Omnivore,Generalist
+Varied Thrush,Ixoreus naevius,77.5,Omnivore,Generalist
+Vaux's Swift,Chaetura vauxi,17.1,Invertivore,Aerial
+Veery,Catharus fuscescens,31.9,Invertivore,Terrestrial
+Verdin,Auriparus flaviceps,6.8,Invertivore,Insessorial
+Vermilion Flycatcher,Pyrocephalus rubinus,14.4,Invertivore,Insessorial
+Vesper Sparrow,Pooecetes gramineus,25.7,Omnivore,Generalist
+Violet-green Swallow,Tachycineta thalassina,14.1,Invertivore,Aerial
+Virginia's Warbler,Leiothlypis virginiae,8.2,Invertivore,Insessorial
+Virginia Rail,Rallus limicola,84.1,Aquatic predator,Terrestrial
+Wandering Tattler,Tringa incana,108.2,Aquatic predator,Terrestrial
+Warbling Vireo,Vireo gilvus,12.7,Invertivore,Insessorial
+Western Bluebird,Sialia mexicana,26.4,Omnivore,Insessorial
+Western Grebe,Aechmophorus occidentalis,1137,Aquatic predator,Aquatic
+Western Gull,Larus occidentalis,922.8,Omnivore,Generalist
+Western Kingbird,Tyrannus verticalis,39.6,Invertivore,Insessorial
+Western Meadowlark,Sturnella neglecta,100.1,Invertivore,Terrestrial
+Western Sandpiper,Calidris mauri,27.8,Aquatic predator,Terrestrial
+Western Screech-Owl,Megascops kennicottii,141.8,Invertivore,Insessorial
+Western Tanager,Piranga ludoviciana,28.1,Invertivore,Insessorial
+Western Wood-Pewee,Contopus sordidulus,13.1,Invertivore,Insessorial
+Whimbrel,Numenius phaeopus,364.6,Omnivore,Terrestrial
+White-breasted Nuthatch,Sitta carolinensis,21,Omnivore,Insessorial
+White-crowned Sparrow,Zonotrichia leucophrys,28,Omnivore,Generalist
+White-eyed Vireo,Vireo griseus,11.4,Invertivore,Insessorial
+White-faced Ibis,Plegadis chihi,616.9,Aquatic predator,Terrestrial
+White-headed Woodpecker,Dryobates albolarvatus,61.1,Invertivore,Insessorial
+White-rumped Sandpiper,Calidris fuscicollis,43,Aquatic predator,Terrestrial
+White-tailed Kite,Elanus leucurus,346,Vertivore,Aerial
+White-throated Sparrow,Zonotrichia albicollis,24.4,Omnivore,Terrestrial
+White-throated Swift,Aeronautes saxatalis,32.1,Invertivore,Aerial
+White-winged Crossbill,Loxia leucoptera,28.7,Omnivore,Insessorial
+White-winged Dove,Zenaida asiatica,153,Granivore,Generalist
+White-winged Scoter,Melanitta fusca,1800.2,Aquatic predator,Aquatic
+White Ibis,Eudocimus albus,889.7,Aquatic predator,Terrestrial
+Wild Turkey,Meleagris gallopavo,5791.4,Omnivore,Terrestrial
+Willet,Tringa semipalmata,245.7,Aquatic predator,Terrestrial
+Williamson's Sapsucker,Sphyrapicus thyroideus,47.6,Invertivore,Insessorial
+Willow Flycatcher,Empidonax traillii,13.4,Invertivore,Insessorial
+Willow Ptarmigan,Lagopus lagopus,566.9,Herbivore terrestrial,Terrestrial
+Wilson's Phalarope,Phalaropus tricolor,59.4,Aquatic predator,Terrestrial
+Wilson's Plover,Charadrius wilsonia,55.1,Aquatic predator,Terrestrial
+Wilson's Snipe,Gallinago delicata,112.9,Aquatic predator,Terrestrial
+Wilson's Warbler,Cardellina pusilla,7,Invertivore,Insessorial
+Winter Wren,Troglodytes hiemalis,8.9,Invertivore,Insessorial
+Wood Duck,Aix sponsa,657.6,Omnivore,Generalist
+Wood Stork,Mycteria americana,2554.5,Aquatic predator,Terrestrial
+Wood Thrush,Hylocichla mustelina,50.1,Invertivore,Generalist
+Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,90.2,Omnivore,Terrestrial
+Worm-eating Warbler,Helmitheros vermivorum,14.2,Invertivore,Insessorial
+Wrentit,Chamaea fasciata,14.7,Invertivore,Insessorial
+Yellow-bellied Flycatcher,Empidonax flaviventris,11.8,Invertivore,Insessorial
+Yellow-bellied Sapsucker,Sphyrapicus varius,50.3,Omnivore,Insessorial
+Yellow-billed Cuckoo,Coccyzus americanus,64,Invertivore,Insessorial
+Yellow-billed Loon,Gavia adamsii,4944.3,Aquatic predator,Aquatic
+Yellow-billed Magpie,Pica nuttalli,158.3,Omnivore,Terrestrial
+Yellow-breasted Chat,Icteria virens,24.9,Invertivore,Insessorial
+Yellow-crowned Night-Heron,Nyctanassa violacea,681.7,Aquatic predator,Terrestrial
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,62.7,Granivore,Terrestrial
+Yellow-rumped Warbler,Setophaga coronata,11.9,Invertivore,Insessorial
+Yellow-throated Vireo,Vireo flavifrons,18,Invertivore,Insessorial
+Yellow-throated Warbler,Setophaga dominica,9.7,Invertivore,Insessorial
+Yellow Warbler,Setophaga petechia,10.2,Invertivore,Insessorial

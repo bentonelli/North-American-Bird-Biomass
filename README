@@ -1,0 +1,19 @@
+README for Tonelli, Wu & Montgomery, 2025
+
+This code and data package include all code and data needed to run the analysis and create the figures. This research is based on abundance estimates from Rosenberg et al. 2019, Science, with biomass estimates calculated using AVONET trait data. Code to re-run the Rosenberg et al. model-generated abundance estimates is available via: https://doi.org/10.5281/zenodo.10790504
+
+The structure of this software is:
+
+-code
+	-RosenbergReanalysis0.R: Use fit model object to derive global and group-level changes in biomass, create figure 2. 
+	-RosenbergReanalysis1.R: Derive and save species-level biomass change estimates
+	-RosenbergReanalysis2.R: Create figure 3.
+-data
+	-input
+		-original
+			-jagsMod.rds: Fit model object saved from line 588 in "Main script ... .R" from https://doi.org/10.5281/zenodo.10790504. Note that the user will have to save this manually.
+			-original data.csv: Year, species-level data derived from the R script referenced above. Saved automatically by the current script 
+			-species modeled trajectories w projections.csv: species-level data derived from the R script referenced above. Saved automatically by the current script 
+		-sp_traits: species level groupings and traits from AVONET.
+	-output: All group-level, and species-level trends saved in .csv form.
+	
